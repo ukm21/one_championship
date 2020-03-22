@@ -1,0 +1,6 @@
+Steps to run code
+1) build the code using maven
+	> mvn clean install
+2) run the jar from target folder
+
+    > java -jar one-championship-0.0.1-SNAPSHOT-jar-with-dependencies.jar 'path_for_input_csv_file' 'path_of_output_json_file'
